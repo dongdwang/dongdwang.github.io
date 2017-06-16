@@ -1,4 +1,4 @@
-[**Home**](https://dongdwang.github.io) / **Singleton**  
+[**Home**](https://dongdwang.github.io) / Singleton  
 ___
 
 ## Singleton(单例模式)
