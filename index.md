@@ -36,4 +36,4 @@
 
 * Design Pattern（设计模式）
 
-    * 单例[singleton](https://dongdwang.github.io/DesignPattern/singleton.html)
+    * 单例 [singleton](https://dongdwang.github.io/DesignPattern/singleton.html)
