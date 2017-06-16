@@ -17,6 +17,8 @@
 ### 例子 
 
 ```
+<?php
+
 interface DbInterface
 {
     public function connect();
