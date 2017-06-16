@@ -1,5 +1,7 @@
-[**Home**](https://dongdwang.github.io) / Singleton  
+[**Home**](https://dongdwang.github.io) / Singleton 
+
 ------
+
 ## Singleton(单例模式)
 *   单例模式是最常见的一种模式，在Web应用中，常见于运行为某个特定类创建一个可访问的实例。
 
